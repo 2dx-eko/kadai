@@ -12,7 +12,13 @@
             newnewnew
         </p>
         <p>
+<<<<<<< HEAD
             blunchblunchblunchaa
+=======
+<<<<<<< HEAD
+            blunchblunchblunch12222
+=======
+>>>>>>> new-blanch
             
         </p>
     </div>
