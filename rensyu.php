@@ -12,11 +12,8 @@
             newnewnew
         </p>
         <p>
-<<<<<<< HEAD
-            blunchblunchblunch
-=======
+            blunchblunchblunchaa
             
->>>>>>> master
         </p>
     </div>
 </body>
