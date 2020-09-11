@@ -12,7 +12,11 @@
             newnewnew
         </p>
         <p>
+<<<<<<< HEAD
             blunchblunchblunch
+=======
+            
+>>>>>>> master
         </p>
     </div>
 </body>
