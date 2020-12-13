@@ -12,7 +12,10 @@
             前前前前前前前
         </p>
         <p>
+<<<<<<< HEAD
         branchbranchbranch branchbranchbranch branchbranchbranch branchbranchbranch
+=======
+>>>>>>> parent of 6b37e25... no message
         </p>
     </div>
 </body>
